@@ -24,6 +24,11 @@ To run tests, run the following command
     npm start
 ```
 
+## Running Test Cases
+To run, the test cases the following command
+```bash
+    npm test
+```
 
 ## Endpoints and Actions:
 * /user/signup[post]: Create a new user account.
