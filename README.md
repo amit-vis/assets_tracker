@@ -37,12 +37,12 @@ To run tests, run the following command
 * /marketplace/assets[get]: get the list of market place assets.
 * /users/:id/requests[get]: get the lists of proposal requests.
 
-/assets[post]: create the assets.
-/assets/:id[put]: update the assets.
-/assets/:id/publish[put]: publish the assets on market place
-/assets/:id[get]: get the assets details.
-/assets/getAssets[get]: get the assets list for logged in user.
-/assets/:id/request[post]: create proposal requests.
+* /assets[post]: create the assets.
+* /assets/:id[put]: update the assets.
+* /assets/:id/publish[put]: publish the assets on market place
+* /assets/:id[get]: get the assets details.
+* /assets/getAssets[get]: get the assets list for logged in user.
+* /assets/:id/request[post]: create proposal requests.
 
 ## Folder Structure
 * config
